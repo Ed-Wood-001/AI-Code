@@ -42,4 +42,4 @@ venv/
 coverage/
 *.local
 
-.env
+# 不被管理：.env 与 node_modules/ 已在上方排除
