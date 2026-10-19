@@ -41,3 +41,5 @@ venv/
 # 其他
 coverage/
 *.local
+
+.env
